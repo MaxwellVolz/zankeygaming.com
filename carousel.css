@@ -24,13 +24,13 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 15rem;
+  height: 14rem;
 }
 .carousel-item > img {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
+  width: 32rem;
   height: 32rem;
 }
 .carousel h3 {
