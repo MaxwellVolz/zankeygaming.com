@@ -48,6 +48,8 @@ body {
 }
 .marketing h2 {
   font-weight: 400;
+  top: 0;
+  left: 0;
 }
 .marketing .col-lg-4 p {
   margin-right: .75rem;
